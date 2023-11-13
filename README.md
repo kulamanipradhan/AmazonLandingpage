@@ -11,7 +11,7 @@ This project is a simple Amazon landing page created using HTML and CSS. It aims
 
 ## Screenshots
 
-![Amazon Landing Page](screenshots/amazon-landing-page.png)
+demo : https://amazonkulamani.netlify.app/
 
 ## Getting Started
 
